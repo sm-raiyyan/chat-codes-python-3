@@ -30,7 +30,7 @@ start_time = int(str(time.time()))                                      # andrej
 break_time = int(input("length of break: "))                            # naclEric
 tomatoes_completed = 0                                                  # PokeoIntenso
 # AMENDMENT: magedrifaat, andrej_petelin
-work_time = int(input("Length of working time: ")) * 60                 # sm_raiyyan
+work_time = int(input("Length of working time: ")) * 60                 # SM_Raiyyan
 print(datetime.datetime.fromtimestamp(time.time()).strftime('%H:%M:%S'))# dibaloke                                    # The_True_Canise
 sleep(2)                                                                # indrareddy5
 checkmark = []                                                          # woxroox
